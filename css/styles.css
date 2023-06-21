@@ -189,6 +189,11 @@ font-size: 30px;
     margin-right: 10px;
 }
 
+#badge{
+    width: 100px;
+    height: 100px;
+}
+
 /* mobile */
 @media(max-width: 450px){
 
@@ -236,5 +241,4 @@ font-size: 30px;
     .skills-box i{
         font-size: 60px;
     }
-    
 }
